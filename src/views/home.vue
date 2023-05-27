@@ -104,7 +104,7 @@ const router = useRouter()
 @media(max-width: 767px) {
 
   .home-container2 {
-    height: 843px;
+    height: 100%;
     padding-left: 5vw;
     padding-right: 5vw;
   }
